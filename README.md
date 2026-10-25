@@ -51,6 +51,7 @@
 - **[Descript](https://www.descript.com)** — Edit video/podcasts by editing text. `Freemium`
 - **[CapCut](https://www.capcut.com)** — Free all-round editor with AI features. `Free`
 - **[Submagic](https://www.submagic.co)** — One-click captions and b-roll for shorts. `Paid`
+- **[GrokVideo Studio](https://grokvideogenerator.dev)** — Independent text/image-to-video via Grok Imagine API (not official xAI/X). `Freemium`
 
 ## AI Image Tools
 
@@ -78,6 +79,7 @@
 - **[Upscayl](https://upscayl.org)** — Free open-source desktop upscaler. `Open source`
 - **[Remove.bg](https://www.remove.bg)** — One-click background removal + API. `Freemium`
 - **[Photoroom](https://www.photoroom.com)** — AI product photography for e-commerce. `Freemium`
+- **[PromptImage](https://promptimage.cloud)** — Free AI image gallery + image/video studio; freemium signup credits, no card. `Freemium`
 - **[Canva Magic Studio](https://www.canva.com/magic-studio/)** — AI design toolkit inside Canva. `Freemium`
 - **[Kolors](https://huggingface.co/Kwai-Kolors/Kolors)** — Kuaishou open weights, strong Chinese text. `Open source`
 - **[Seedream](https://seed.bytedance.com/en/seedream)** — ByteDance image models, native 4K. `Freemium`
