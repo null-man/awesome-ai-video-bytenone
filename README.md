@@ -52,6 +52,9 @@
 - **[CapCut](https://www.capcut.com)** — Free all-round editor with AI features. `Free`
 - **[Submagic](https://www.submagic.co)** — One-click captions and b-roll for shorts. `Paid`
 - **[GrokVideo Studio](https://grokvideogenerator.dev)** — Independent text/image-to-video via Grok Imagine API (not official xAI/X). `Freemium`
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok).
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99).
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99).
 
 ## AI Image Tools
 
